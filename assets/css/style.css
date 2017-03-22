@@ -1,0 +1,41 @@
+body{
+	background-color: #e6e4e4;
+	margin: auto;
+	/*width: 1020px;*/
+}
+
+#cars-form{
+	
+	float: right;
+	margin: 20px;
+	background-color: #00a390;
+	padding:20px; 
+}
+
+#add-car{
+
+}
+#car-Buttons{
+	margin: 20px;
+	float: left;
+}
+
+#cars{
+	float: left;
+	/*max-width: 500px;*/
+}
+
+.car-button{
+	background-color: #00a390;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	margin: 7px;
+	padding: 10px;
+	float: left;
+}
+
+.car-div{
+	float: left;
+	margin: 15px;
+}
